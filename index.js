@@ -42,7 +42,7 @@ function clearList() {
   updateList();
 }
 
-// Attach event listeners
+// Attach event Listeners
 addItemButton.addEventListener('click', addItem);
 clearListButton.addEventListener('click', clearList);
 
